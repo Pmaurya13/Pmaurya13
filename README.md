@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **prabhatmaurya2004@gmail.com** For Collaboration/Project 
 
-- 🌱 **I’m currently learning:** Spring Framewor
+- 🌱 **I’m currently learning:** Spring Framework
 - 😄 **Pronouns:** Prabhat
 - ⚡ **Fun fact:** I enjoy building Real time solutions using AI
 - 
