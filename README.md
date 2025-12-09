@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Prabhat Chandra Maurya
 **A passionate Software Developer || c++ , Java , JavaScript || Node.js , Spring **
 
-Email Me 👉 ✉️ **prabhatmaurya2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **prabhatmaurya2004@gmail.com** For Collaboration/Project 
 
 - 🌱 **I’m currently learning:** Spring Framewor
 - 😄 **Pronouns:** Prabhat
